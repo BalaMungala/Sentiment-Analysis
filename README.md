@@ -24,6 +24,7 @@ we do not finalize the model based on one test set, so perform "CROSS VALIDATION
 
 
 ARTIFICIAL NEURAL NETWORKS:
+
        Neural Networks Training steps:
        
                   1) Import libraries
@@ -40,4 +41,8 @@ ARTIFICIAL NEURAL NETWORKS:
                   12) Tune the parameters
                   13) Based on above metrics choose the best parameters 
                   14)Train with choosen parameters and deploy the model for production
+                  
+NOTE:
+
+      check the "Sentimental Analysis.jpg" for understanding the concept and check "Classification-Steps.png" for understanding the classification process and concept
                   
