@@ -3,7 +3,7 @@ Performing Sentiment Analysis using Machine Learning( 6 Algorithms) and Neural N
 
 MACHINE LEARNING:
 
-  Performing Sentiment Analysis using SIX Maching Learning Algorithms.They are:
+Performing Sentiment Analysis using SIX Maching Learning Algorithms.They are:
       1)Logistic Regression
       2)K-Nearest Neighbors
       3)Naive-Bayes
