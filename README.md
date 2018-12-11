@@ -12,7 +12,8 @@ Performing Sentiment Analysis using SIX Maching Learning Algorithms.They are:
       5) DecisionTree
       6) Random Forest
       
-By training with above Algorithms , we have to choose best Algorithm based on
+By training with above Algorithms , we have to choose best Algorithm based on:
+
       1)Accuracy
       2)Precision
       3)Recall
