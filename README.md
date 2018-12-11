@@ -20,4 +20,23 @@ By training with above Algorithms , we have to choose best Algorithm based on:
       4)f1_score
       5)auc(Area under curve)
       
-we dont finalize based on one test set, so apply cross validation then apply above ,metrics to evaluate model performance,if model performance is not good then we have to go for "GRID SEARCH CV" which is used for "TUNING PARAMETERS" , by training with different parameters ,we get best parameters based on above metrics ,then keep that parameters in choosed algorithm then deploy the algorithm for production
+we do not finalize the model based on one test set, so perform "CROSS VALIDATION" then apply above metrics to evaluate model performance,if model performance is not good then we have to go for "GRID SEARCH CV" which is used for "TUNING PARAMETERS" , by training with different parameters ,we get best parameters based on above metrics ,then keep best suited parameters in choosen algorithm ,then deploy the algorithm for production.
+
+
+ARTIFICIAL NEURAL NETWORKS:
+       Neural Networks Training steps:
+       
+                  1)Import libraries
+                  2)Data Preprocessing
+                  3)Create dense input layers with 1500 units
+                  4)Create dense hidden layers with 750 units
+                  5)Apply backpropagation(optimizer) algorithm ("adam")
+                  6)Set epochs count
+                  7)Call the callbacks for saving weights
+                  8)Fit the data to train the networks
+                  9)Calclate accuracy,precision,recall,f1_score,auc using confusion matrix with test data
+                  10)Evaluate the model
+                  11)Improve the model by using dropout regularization
+                  12)Tune the parameters
+                  13)Based on above metrics choose the best parameters and use for deployment
+                  
