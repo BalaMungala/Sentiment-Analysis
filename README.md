@@ -44,5 +44,6 @@ ARTIFICIAL NEURAL NETWORKS:
                   
 NOTE:
 
-      check the "Sentimental Analysis.jpg" for understanding the concept and check "Classification-Steps.png" for understanding the classification process and concept
+      check the "Sentimental Analysis.jpg" for understanding the concept and check "Classification-Steps.png" for understanding the 
+      classification process and concept
                   
